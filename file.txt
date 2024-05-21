@@ -1,2 +1,4 @@
 this is a file
 i will push it to my repo
+i am making a change
+this is text
